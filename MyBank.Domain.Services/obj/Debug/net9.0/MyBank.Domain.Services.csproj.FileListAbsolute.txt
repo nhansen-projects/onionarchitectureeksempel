@@ -1,0 +1,16 @@
+/home/nh/workspace/h5pd010126_Software_Arkitektur_OnionArchitecture_5_Lag-1.0.1/MyBank.Domain.Services/bin/Debug/net9.0/MyBank.Domain.Services.deps.json
+/home/nh/workspace/h5pd010126_Software_Arkitektur_OnionArchitecture_5_Lag-1.0.1/MyBank.Domain.Services/bin/Debug/net9.0/MyBank.Domain.Services.dll
+/home/nh/workspace/h5pd010126_Software_Arkitektur_OnionArchitecture_5_Lag-1.0.1/MyBank.Domain.Services/bin/Debug/net9.0/MyBank.Domain.Services.pdb
+/home/nh/workspace/h5pd010126_Software_Arkitektur_OnionArchitecture_5_Lag-1.0.1/MyBank.Domain.Services/bin/Debug/net9.0/MyBank.Domain.Model.dll
+/home/nh/workspace/h5pd010126_Software_Arkitektur_OnionArchitecture_5_Lag-1.0.1/MyBank.Domain.Services/bin/Debug/net9.0/MyBank.Domain.Model.pdb
+/home/nh/workspace/h5pd010126_Software_Arkitektur_OnionArchitecture_5_Lag-1.0.1/MyBank.Domain.Services/obj/Debug/net9.0/MyBank.Domain.Services.csproj.AssemblyReference.cache
+/home/nh/workspace/h5pd010126_Software_Arkitektur_OnionArchitecture_5_Lag-1.0.1/MyBank.Domain.Services/obj/Debug/net9.0/MyBank.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/nh/workspace/h5pd010126_Software_Arkitektur_OnionArchitecture_5_Lag-1.0.1/MyBank.Domain.Services/obj/Debug/net9.0/MyBank.Domain.Services.AssemblyInfoInputs.cache
+/home/nh/workspace/h5pd010126_Software_Arkitektur_OnionArchitecture_5_Lag-1.0.1/MyBank.Domain.Services/obj/Debug/net9.0/MyBank.Domain.Services.AssemblyInfo.cs
+/home/nh/workspace/h5pd010126_Software_Arkitektur_OnionArchitecture_5_Lag-1.0.1/MyBank.Domain.Services/obj/Debug/net9.0/MyBank.Domain.Services.csproj.CoreCompileInputs.cache
+/home/nh/workspace/h5pd010126_Software_Arkitektur_OnionArchitecture_5_Lag-1.0.1/MyBank.Domain.Services/obj/Debug/net9.0/MyBank.Domain.Services.sourcelink.json
+/home/nh/workspace/h5pd010126_Software_Arkitektur_OnionArchitecture_5_Lag-1.0.1/MyBank.Domain.Services/obj/Debug/net9.0/MyBank.D.50A9EFC5.Up2Date
+/home/nh/workspace/h5pd010126_Software_Arkitektur_OnionArchitecture_5_Lag-1.0.1/MyBank.Domain.Services/obj/Debug/net9.0/MyBank.Domain.Services.dll
+/home/nh/workspace/h5pd010126_Software_Arkitektur_OnionArchitecture_5_Lag-1.0.1/MyBank.Domain.Services/obj/Debug/net9.0/refint/MyBank.Domain.Services.dll
+/home/nh/workspace/h5pd010126_Software_Arkitektur_OnionArchitecture_5_Lag-1.0.1/MyBank.Domain.Services/obj/Debug/net9.0/MyBank.Domain.Services.pdb
+/home/nh/workspace/h5pd010126_Software_Arkitektur_OnionArchitecture_5_Lag-1.0.1/MyBank.Domain.Services/obj/Debug/net9.0/ref/MyBank.Domain.Services.dll
